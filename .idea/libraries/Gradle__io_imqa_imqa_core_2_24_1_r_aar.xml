@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.imqa:imqa-core:2.24.1.r@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa98068bd6d72a6d5a53fdd8eefd620c/transformed/jetified-imqa-core-2.24.1.r/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa98068bd6d72a6d5a53fdd8eefd620c/transformed/jetified-imqa-core-2.24.1.r/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa98068bd6d72a6d5a53fdd8eefd620c/transformed/jetified-imqa-core-2.24.1.r/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.imqa/imqa-core/2.24.1.r/fdbdbb0f773a0dff426d3a7a6e1c4f9782e8cb39/imqa-core-2.24.1.r-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

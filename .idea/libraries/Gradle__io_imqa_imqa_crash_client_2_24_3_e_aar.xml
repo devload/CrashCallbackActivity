@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.imqa:imqa-crash-client:2.24.3.e@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ffaa9faaccb581a5cc5376ff25ecf1f5/transformed/jetified-imqa-crash-client-2.24.3.e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ffaa9faaccb581a5cc5376ff25ecf1f5/transformed/jetified-imqa-crash-client-2.24.3.e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ffaa9faaccb581a5cc5376ff25ecf1f5/transformed/jetified-imqa-crash-client-2.24.3.e/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.imqa/imqa-crash-client/2.24.3.e/da4f1b2d812dfcccc5b2b7f8d39dad77bf729245/imqa-crash-client-2.24.3.e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

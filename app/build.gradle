@@ -38,6 +38,9 @@ dependencies {
     implementation 'io.imqa:imqa-mpm-client:2.24.3.a.i'
     implementation 'io.imqa:imqa-crash-client:2.24.3.e'
 
+    implementation 'cat.ereza:customactivityoncrash:2.4.0'
+
+
     implementation("com.squareup.okhttp3:okhttp:4.10.0")
 
 }

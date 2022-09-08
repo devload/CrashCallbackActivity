@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.imqa:imqa-mpm-client:2.24.3.a.i@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f20b99a1f5b485525cc27f820559212/transformed/jetified-imqa-mpm-client-2.24.3.a.i/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f20b99a1f5b485525cc27f820559212/transformed/jetified-imqa-mpm-client-2.24.3.a.i/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9f20b99a1f5b485525cc27f820559212/transformed/jetified-imqa-mpm-client-2.24.3.a.i/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.imqa/imqa-mpm-client/2.24.3.a.i/7bacc9591887312892529ae8400c0698e16ef348/imqa-mpm-client-2.24.3.a.i-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
